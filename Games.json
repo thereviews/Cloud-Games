@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Cyberpunk 2077",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg",
+    "platforms": ["GeForce NOW", "Xbox Cloud"],
+    "genre": "RPG",
+    "url": "https://www.nvidia.com/en-us/geforce-now/games/cyberpunk-2077/"
+  },
+  {
+    "title": "Halo Infinite",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/Halo_Infinite.png",
+    "platforms": ["Xbox Cloud"],
+    "genre": "Shooter",
+    "url": "https://www.xbox.com/en-US/play/games/halo-infinite"
+  }
+]
